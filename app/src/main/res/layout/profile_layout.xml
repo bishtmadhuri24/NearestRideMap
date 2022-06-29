@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="horizontal"
+    android:background="@color/black"
+    android:layout_margin="5dp"
+    android:layout_height="wrap_content">
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:textStyle="bold"
+        android:layout_gravity="center"
+        android:fontFamily="sans-serif-smallcaps"
+        android:padding="10dp"
+        android:layout_marginLeft="8dp"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        android:text="EDVORA"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="3"
+        android:padding="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="20sp"
+        android:text="Madhuri Bisht"/>
+
+    <ImageView
+        android:layout_margin="10dp"
+        android:padding="10dp"
+        android:layout_width="5dp"
+        android:background="@drawable/outline"
+        android:layout_height="60dp"
+        android:layout_weight="1"
+        android:src="@drawable/ic_baseline_person_24"/>
+
+</LinearLayout>

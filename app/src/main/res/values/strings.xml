@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">NearestRideMap</string>
+    <string-array name="city">
+        <item>City</item>
+        <item>Mathabhanga</item>
+        <item>Port Blair</item>
+        <item>Solan</item>
+        <item>Silvassa</item>
+        <item>Coimbatore</item>
+        <item>Manglaur</item>
+        <item>Talwara</item>
+        <item>Nokha</item>
+        <item>Pratapgarh</item>
+
+    </string-array>
+    <string-array name="state">
+        <item>State</item>
+        <item>West Bengal</item>
+        <item>Andaman and Nicobar Islands</item>
+        <item>Himanchal Pradesh</item>
+        <item>Tamil Nadu</item>    <item>Uttarakhand</item>
+        <item>Punjab</item>
+
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
